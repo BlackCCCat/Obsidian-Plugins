@@ -1,0 +1,13 @@
+{
+  "id": "get-vault-address",
+  "name": "Get Vault Address",
+  "version": "1.0.0",
+  "description": "获取vault://xxx/xxx/xxx/[filename]格式的路径",
+  "main": "main.js",
+  "author": "Made with ChatGPT",
+  "tags": [],
+  "css": [],
+  "default-enabled": false,
+  "nodeIntegration": true
+}
+
